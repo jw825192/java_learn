@@ -1,5 +1,6 @@
 package PracticePack;
 
+
 public class Chocolate {
 	private int barcode;
 	private String name;

@@ -1,5 +1,6 @@
 package PracticePack;
 
+
 public class ContractEmployee extends Employee {
 	double wages;
 	int hours;
